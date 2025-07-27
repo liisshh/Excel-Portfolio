@@ -1,6 +1,6 @@
 READ ME # Excel-Portfolio
 
-Disclaimer: I do not own these datasets and they are used personally for the purpose of demonstrating my ever evolving skillss. 
+Disclaimer: I do not own these datasets and they are used personally for the purpose of demonstrating my ever evolving skills. 
 
 Hey there! 
 
